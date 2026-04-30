@@ -1,6 +1,10 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Shubham+Kumar+%F0%9F%91%8B;Backend+Engineer+%7C+Data+Analyst;Node.js+%E2%80%A2+Python+%E2%80%A2+SQL+%E2%80%A2+ML;I+build+things+that+scale+%F0%9F%9A%80)](https://git.io/typing-svg)
+# Hey, I'm Shubham Kumar 👋
+
+### Backend Engineer · Data Analyst · ML Enthusiast
+
+`Node.js` `Python` `MongoDB` `Docker` `AWS` `SQL` `Scikit-learn`
 
 <img src="https://komarev.com/ghpvc/?username=SawarnShubham&color=00d9ff&style=flat-square&label=Profile+Views" />
 
@@ -89,6 +93,17 @@ shubham = {
 
 </div>
 
+---
+
+## 📈 Current Focus
+
+```
+🐳  DevOps Roadmap    ████████████░░░░░░░  Linux ✅ | Docker ✅ | AWS EC2 ✅ | S3 🔄
+☁️  AWS               ██████████░░░░░░░░░  Working toward Cloud Practitioner
+🤖  ML Projects       ████████░░░░░░░░░░░  Krish Naik 6-hour curriculum
+```
+
+---
 
 ## 🤝 Let's Connect
 
