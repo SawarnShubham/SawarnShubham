@@ -1,58 +1,22 @@
 <div align="center">
 
-# Hey, I'm Shubham Kumar 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:0f3460&height=200&section=header&text=Shubham%20Kumar&fontSize=50&fontColor=58A6FF&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Data%20Analyst%20%7C%20ML%20Enthusiast&descSize=16&descAlignY=58&descColor=8B949E" />
 
-### Backend Engineer · Data Analyst · ML Enthusiast
+<a href="https://linkedin.com/in/sawarnshubham"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="mailto:kumarshubham00882@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+<a href="https://github.com/SawarnShubham"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-`Node.js` `Python` `MongoDB` `Docker` `AWS` `SQL` `Scikit-learn`
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=SawarnShubham&color=00d9ff&style=flat-square&label=Profile+Views" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=🚀+Building+scalable+REST+APIs+%26+real-time+systems;📊+Turning+raw+data+into+business+insights;🐳+Containerizing+%26+deploying+on+AWS;🤖+End-to-end+ML+pipelines+that+actually+work;💡+B.Tech+CSE+Final+Year+%7C+RGPV+Indore+2026" />
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+<div align="center">
 
-```python
-shubham = {
-    "name"     : "Shubham Kumar Sawarn",
-    "location" : "Indore, India 🇮🇳",
-    "education": "B.Tech CSE Final Year — RGPV (2026)",
-    "roles"    : ["Backend Engineer", "Data Analyst", "ML Enthusiast"],
-    "stack"    : {
-        "backend" : ["Node.js", "Express.js", "MongoDB", "Redis", "Socket.io"],
-        "data"    : ["Python", "Pandas", "NumPy", "Scikit-learn", "SQL"],
-        "devops"  : ["Docker", "AWS EC2/S3", "GitHub Actions"],
-        "tools"   : ["Streamlit", "Postman", "Swagger", "Jupyter"]
-    },
-    "currently": ["DevOps Roadmap 🐳", "ML Projects 🤖", "AWS Certifications ☁️"],
-    "fun_fact" : "I debug best at 2AM ☕"
-}
-```
-
----
-
-## 🚀 Featured Projects
-
-### 🔴 Backend
-
-| Project | What it does | Stack |
-|---------|-------------|-------|
-| [**HireFlow**](https://github.com/SawarnShubham/hireflow) | Job portal backend — recruiter & candidate workflows, idempotency-safe applications, RBAC | Node.js · Express · MongoDB · JWT · Swagger |
-| [**NotifyX**](https://github.com/SawarnShubham/notifyx) | Real-time notification engine — Socket.io delivery, Redis job queue, auto-retry, rate limiting | Node.js · Socket.io · Redis · MongoDB · Docker |
-
-### 📊 Data & ML
-
-| Project | What it does | Stack |
-|---------|-------------|-------|
-| [**Financial Fraud Detection**](https://github.com/SawarnShubham) | EDA on 280K+ transactions · 15+ SQL queries · fraud risk segmentation · deployed on AWS EC2 | Python · SQL · Streamlit · Docker · AWS |
-| [**Retail Customer Segmentation**](https://github.com/SawarnShubham) | RFM analysis → Best / Loyal / At-Risk cohorts · executive Streamlit dashboard | Python · MySQL · Pandas · Streamlit |
-| [**Diabetes Risk Predictor**](https://github.com/SawarnShubham) | End-to-end ML pipeline · Logistic Regression · AUC-ROC evaluation · real-time patient scoring | Python · Scikit-learn · Streamlit |
-
----
-
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 **Backend & APIs**
 
@@ -80,41 +44,39 @@ shubham = {
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+</div>
+
 ---
 
-## 📊 GitHub Stats
+### 🚀 Featured Projects
+
+#### ⚙️ Backend
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [**HireFlow**](https://github.com/SawarnShubham/hireflow) | Job portal backend — RBAC, idempotency-safe applications, server-side pagination | Node.js · Express · MongoDB · JWT · Swagger |
+| [**NotifyX**](https://github.com/SawarnShubham/notifyx) | Real-time notification engine — Socket.io, Redis job queue, auto-retry, rate limiting | Node.js · Socket.io · Redis · MongoDB · Docker |
+
+#### 📊 Data & ML
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [**Financial Fraud Detection**](https://github.com/SawarnShubham) | EDA on 280K+ transactions · 15+ SQL queries · risk segmentation · deployed on AWS EC2 | Python · SQL · Streamlit · Docker · AWS |
+| [**Retail Customer Segmentation**](https://github.com/SawarnShubham) | RFM analysis → Best / Loyal / At-Risk cohorts · executive Streamlit dashboard | Python · MySQL · Pandas · Streamlit |
+| [**Diabetes Risk Predictor**](https://github.com/SawarnShubham) | End-to-end ML pipeline · Logistic Regression · AUC-ROC · real-time patient scoring | Python · Scikit-learn · Streamlit |
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SawarnShubham&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SawarnShubham&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SawarnShubham&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SawarnShubham&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=SawarnShubham&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=SawarnShubham&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
 
 </div>
 
 ---
 
-## 📈 Current Focus
-
-```
-🐳  DevOps Roadmap    ████████████░░░░░░░  Linux ✅ | Docker ✅ | AWS EC2 ✅ | S3 🔄
-☁️  AWS               ██████████░░░░░░░░░  Working toward Cloud Practitioner
-🤖  ML Projects       ████████░░░░░░░░░░░  Krish Naik 6-hour curriculum
-```
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sawarnshubham)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SawarnShubham)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumarshubham00882@gmail.com)
-
-<br/>
-
-*"First, solve the problem. Then, write the code."*
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1a2e,100:0D1117&height=100&section=footer" />
