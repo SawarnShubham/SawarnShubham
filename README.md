@@ -14,6 +14,17 @@
 
 ---
 
+### 🧑‍💻 About Me
+
+- 🎓 B.Tech CSE Final Year — RGPV, Indore **(2026)**
+- ⚙️ Backend Engineer — scalable REST APIs, real-time systems, JWT/RBAC
+- 📊 Data Analyst — EDA, RFM analysis, SQL queries, business dashboards
+- 🤖 ML Enthusiast — end-to-end pipelines, Scikit-learn, Streamlit deployments
+- 🐳 DevOps learner — Docker ✅ · AWS EC2/S3 ✅ · GitHub Actions 🔄
+- 📍 Indore, India 🇮🇳
+
+---
+
 <div align="center">
 
 ### 🛠️ Tech Stack
