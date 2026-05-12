@@ -288,10 +288,18 @@ I enjoy working where **engineering meets data intelligence** — transforming r
 ## 📊 GitHub Analytics
 
 <div align="center">
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SawarnShubham&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=38BDF8&icon_color=A78BFA&text_color=CBD5E1"/>
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SawarnShubham&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SawarnShubham&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SawarnShubham&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+</div>
+
 
 <br/><br/>
 
@@ -364,8 +372,8 @@ I enjoy working where **engineering meets data intelligence** — transforming r
 <div align="center">
 
 ## 🤝 Let's Connect
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&height=60&lines=Backend+Engineer+%7C+Data+Analyst+%7C+ML+Engineer;Building+scalable+backend+systems;Transforming+data+into+business+insights;Open+to+engineering+opportunities" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&pause=2000&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+scalable+systems+with+backend+engineering+%26+data.;Turning+raw+data+into+intelligent+business+decisions.;Always+open+to+great+engineering+opportunities+🚀" />
 
 <br/><br/>
 
